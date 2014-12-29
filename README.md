@@ -1,10 +1,10 @@
 Authors
 =======
 
-1. SOWMIYA NARAYAN SRINATH <br>
-2. SAI SANTHOSH VAIDYAM ANANDAN
+Sowmiya Narayan Srinath<br>
+Sai Santhosh Vaidyam Anandan
 
-DESCRIPTION
+Description
 ===========
 
 A UDP based reliable file transfer application that focusses on two broad aspects:
@@ -13,7 +13,7 @@ Setting up the exchange between the client and server in a secure way despite th
 <br>
 Introducing application-layer protocol data-transmission reliability, flow control and congestion control in the client and server using TCP-like ARQ sliding window mechanisms.
 
-FUNCTIONALITY
+Functionality
 =============
 
 1. The getifiinfo() function returns the set of all IP addresses of the host among other details. We
